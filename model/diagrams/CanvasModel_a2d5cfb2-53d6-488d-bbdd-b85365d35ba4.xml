@@ -1,0 +1,17 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="New Canvas"
+    id="a2d5cfb2-53d6-488d-bbdd-b85365d35ba4">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="672aaaf2-b66b-4c47-bb75-18047f25ba86"
+      borderColor="#000000"
+      imagePath="images/_XY2-IOhmEeqAeZAV0ivUMg.png">
+    <bounds
+        x="120"
+        y="132"
+        width="121"
+        height="121"/>
+  </children>
+</canvas:CanvasModel>
